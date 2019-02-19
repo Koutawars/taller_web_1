@@ -1,0 +1,28 @@
+body {
+    background-color: #e9e9e9;
+}
+footer {
+    background-color: #004a87;
+    padding: 12px 28px;
+}
+
+.no-margin {
+    margin:0;
+}
+
+nav {
+    background-color: #cca338;
+}
+nav ul a:hover {
+    background-color: rgba(216,1,2);
+}
+
+main.col.m8.s12 {
+    padding-left: 0;
+}
+.col.m4.s12 {
+    padding-right: 0;
+}
+img.responsive-img {
+    width: 100%;
+}
